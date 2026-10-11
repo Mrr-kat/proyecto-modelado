@@ -1,0 +1,5 @@
+Escenario,Pico (media),Pico (std),Día pico,Total infectados,% infectados,Duración (días)
+BASE (situación actual),461.8,11.7,37.5,946.0,94.6,71.8
+Esc1 (vacunación 30%),141.9,97.15,35.4,417.9,41.79,72.1
+Esc2 (cuarentena al 1%),53.9,12.6,63.3,397.5,39.75,168.9
+Esc3 (vacunación + cuarentena),14.3,8.03,26.8,50.1,5.01,65.0

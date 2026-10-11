@@ -1,0 +1,3 @@
+pico_pct=94.1
+R_inicial=2.78
+R_final=0.10
