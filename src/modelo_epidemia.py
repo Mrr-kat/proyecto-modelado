@@ -81,7 +81,7 @@ class ModeloEpidemia(Model):
 
     def __init__(
         self,
-        N=5000,
+        N=1000,
         beta=0.04,
         dias_incubacion=3,
         dias_infeccioso=7,
