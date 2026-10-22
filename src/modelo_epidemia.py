@@ -66,18 +66,7 @@ class Persona(Agent):
 # MODELO
 # =====================================================================
 class ModeloEpidemia(Model):
-    """
-    Modelo SEIR con red de contactos small-world.
-
-    Parámetros:
-        N                  : número de agentes
-        beta               : probabilidad de contagio por contacto
-        dias_incubacion    : días en estado E antes de pasar a I
-        dias_infeccioso    : días en estado I antes de pasar a R
-        prob_vacunacion    : fracción inicial de vacunados
-        grado_promedio     : número promedio de contactos por persona
-        semilla            : semilla aleatoria para reproducibilidad
-    """
+    
 
     def __init__(
         self,
